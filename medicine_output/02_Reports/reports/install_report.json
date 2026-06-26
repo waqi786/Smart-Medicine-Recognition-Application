@@ -1,0 +1,58 @@
+{
+  "timestamp": "2026-03-31 17:09:34",
+  "platform": "Kaggle",
+  "gpu_available": true,
+  "gpu_count": 1,
+  "versions": {
+    "Python": "3.12.12",
+    "TensorFlow": "2.19.0",
+    "Keras": "3.10.0",
+    "NumPy": "2.0.2",
+    "Pandas": "2.3.3",
+    "Seaborn": "0.13.2",
+    "Scikit-learn": "1.6.1",
+    "Pillow": "11.3.0"
+  },
+  "packages": [
+    {
+      "package": "tensorflow",
+      "status": "pre-installed",
+      "note": "Core deep learning framework"
+    },
+    {
+      "package": "opencv-python",
+      "status": "pre-installed",
+      "note": "Image reading and color operations"
+    },
+    {
+      "package": "scikit-learn",
+      "status": "pre-installed",
+      "note": "Evaluation metrics and class weights"
+    },
+    {
+      "package": "pillow",
+      "status": "pre-installed",
+      "note": "Image opening and resizing"
+    },
+    {
+      "package": "seaborn",
+      "status": "pre-installed",
+      "note": "Heatmaps for confusion matrix"
+    },
+    {
+      "package": "tqdm",
+      "status": "pre-installed",
+      "note": "Progress bars for directory iteration"
+    },
+    {
+      "package": "pandas",
+      "status": "pre-installed",
+      "note": "Result tables and data handling"
+    },
+    {
+      "package": "tensorflowjs",
+      "status": "installed (6.4s)",
+      "note": "TF.js conversion for web deployment"
+    }
+  ]
+}

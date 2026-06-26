@@ -1,0 +1,15 @@
+{
+  "base_model": "MobileNetV2",
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "num_classes": 20,
+  "total_params": 2424532,
+  "trainable_phase1": 166548,
+  "frozen_phase1": 2257984,
+  "learning_rate_phase1": 0.001,
+  "optimizer": "Adam",
+  "loss": "categorical_crossentropy"
+}

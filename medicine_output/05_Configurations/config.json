@@ -1,0 +1,27 @@
+{
+  "platform": "Kaggle",
+  "timestamp": "2026-03-31 17:08:02",
+  "dataset_path": "/kaggle/working/datasets/New Datasets/NLM20",
+  "output_path": "/kaggle/working/medicine_output",
+  "dataset_valid": true,
+  "split_stats": {
+    "train": {
+      "classes": 20,
+      "total_images": 8393
+    },
+    "valid": {
+      "classes": 20,
+      "total_images": 2776
+    },
+    "test": {
+      "classes": 20,
+      "total_images": 2786
+    }
+  },
+  "directories": {
+    "visualizations": "/kaggle/working/medicine_output/visualizations",
+    "models": "/kaggle/working/medicine_output/models",
+    "reports": "/kaggle/working/medicine_output/reports",
+    "checkpoints": "/kaggle/working/medicine_output/checkpoints"
+  }
+}
