@@ -12,7 +12,7 @@ This repository contains the training notebooks, trained model artifacts, Flask 
 - Model outputs, checkpoints, training reports, and visualizations.
 - Dataset notes kept separately because raw dataset archives are too large for normal GitHub storage.
 
-## Project Structure
+## Project Structure:
 
 ```text
 Smart-Medicine-Recognition-Application/
