@@ -4,7 +4,7 @@ Instant pill identification and safety guidance from a medicine image scan.
 
 This repository contains the training notebooks, trained model artifacts, Flask API, reports, and visualizations for a Smart Medicine Recognition final year project. The system predicts the medicine/NDC class from an uploaded pill image and provides supporting medicine details and interaction checks through a local SQLite database.
 
-## Features:
+## Features
 
 - Medicine image classification using a trained TensorFlow/Keras model.
 - Flask API for prediction, medicine listing, health check, and interaction lookup.
